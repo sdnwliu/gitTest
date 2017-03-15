@@ -34,7 +34,7 @@ namespace VWGTest
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(224, 94);
+            this.button1.Location = new System.Drawing.Point(109, 109);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -42,7 +42,7 @@ namespace VWGTest
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(331, 94);
+            this.button2.Location = new System.Drawing.Point(216, 109);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 1;
